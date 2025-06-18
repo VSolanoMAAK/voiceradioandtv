@@ -1,0 +1,6 @@
+name=Voiced Radio and Tvs
+poster=poster.png
+description=This mod adds Audio files generated with ElevenLabs to every voiced line in the game, and plays them acordingly when they appear. Special Thanks to Azakaela who shared the mod Survivor Radio as a base for this one.
+url=https://steamcommunity.com/sharedfiles/filedetails/?id=2950750587
+require=VOICE_FRAMEWORK
+id=VOICES
