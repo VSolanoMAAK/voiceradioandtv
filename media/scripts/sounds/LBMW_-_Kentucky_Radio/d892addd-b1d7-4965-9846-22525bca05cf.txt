@@ -1,0 +1,353 @@
+module Base
+{
+	sound 8242d4d2-c7eb-41e0-b9a2-d55f942ab044
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/8242d4d2-c7eb-41e0-b9a2-d55f942ab044.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound e1df2c9e-08ed-41bc-8493-c42fdb812fa0
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/e1df2c9e-08ed-41bc-8493-c42fdb812fa0.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 0e173bfd-5dec-4a4e-baf3-ee423adcbf20
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/0e173bfd-5dec-4a4e-baf3-ee423adcbf20.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 8d769a30-7495-4eb1-90c1-201163ef4925
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/8d769a30-7495-4eb1-90c1-201163ef4925.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 3fb56972-8f69-4657-b2c2-f11c96615ee9
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/3fb56972-8f69-4657-b2c2-f11c96615ee9.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 9e5d1013-5583-4fba-b7b4-7a72c8a6e613
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/9e5d1013-5583-4fba-b7b4-7a72c8a6e613.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound e52b6889-7207-4f6f-949a-93187cd47e4c
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/e52b6889-7207-4f6f-949a-93187cd47e4c.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 9671212c-dba0-43d9-b911-51f59ea7d558
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/9671212c-dba0-43d9-b911-51f59ea7d558.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound f03e76d6-f51d-4969-bba3-aa8a8c0a547d
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/f03e76d6-f51d-4969-bba3-aa8a8c0a547d.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 9543f3bf-1ad0-4c24-b77f-3d86fc509291
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/9543f3bf-1ad0-4c24-b77f-3d86fc509291.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 23d2f44e-914e-4dc6-946c-037c3854b936
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/23d2f44e-914e-4dc6-946c-037c3854b936.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound bb8b927b-addc-47dc-a4fc-c0adc3373678
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/bb8b927b-addc-47dc-a4fc-c0adc3373678.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 7551d331-de8a-41ce-b617-2ad31b99a2a3
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/7551d331-de8a-41ce-b617-2ad31b99a2a3.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 3f864f57-7f9f-4877-ad04-f33a126cb451
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/3f864f57-7f9f-4877-ad04-f33a126cb451.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 5e601efd-7800-49f6-9ba2-e41773cff29b
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/5e601efd-7800-49f6-9ba2-e41773cff29b.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound d6827b27-3453-4f78-91d1-6c0a1132fdee
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/d6827b27-3453-4f78-91d1-6c0a1132fdee.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 23139ba0-6c67-4d22-bab1-87e841c1c7fa
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/23139ba0-6c67-4d22-bab1-87e841c1c7fa.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound e262083c-a5a3-48f4-adc7-450ccceebdb3
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/e262083c-a5a3-48f4-adc7-450ccceebdb3.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound ad612520-59e0-4d3d-b676-3275be21f0b4
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/ad612520-59e0-4d3d-b676-3275be21f0b4.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound f5cb9620-6f82-4af9-a8be-93ec809d66d3
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/f5cb9620-6f82-4af9-a8be-93ec809d66d3.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound c4f321bb-28cc-4c11-810f-2f6bc83e42ae
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/c4f321bb-28cc-4c11-810f-2f6bc83e42ae.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound af1d8c66-b6c1-42c3-a52a-ccc17790334f
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/af1d8c66-b6c1-42c3-a52a-ccc17790334f.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 662900ae-92b6-4b80-bd45-c364d761b85f
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/662900ae-92b6-4b80-bd45-c364d761b85f.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 5358acbc-165d-43f4-8452-a1633b8833b2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/5358acbc-165d-43f4-8452-a1633b8833b2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 72240b99-c4c1-4fb5-8023-756425cfe1df
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/72240b99-c4c1-4fb5-8023-756425cfe1df.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 6f2780bf-522c-48de-b03d-37bfc06049e5
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/6f2780bf-522c-48de-b03d-37bfc06049e5.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 67712fa7-8e6f-4002-bb77-838c797e02d2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/LBMW_-_Kentucky_Radio/d892addd-b1d7-4965-9846-22525bca05cf/67712fa7-8e6f-4002-bb77-838c797e02d2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+}
