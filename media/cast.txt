@@ -1,0 +1,127 @@
+[list]
+[*]Notable Characters:
+ [list]
+	[*] General John McGrew: The Marshal
+	[*] President Bill Clinton: MaytayMaya (StS voice clone)
+ [/list]
+[*]Life and Living TV:
+ [list]
+	[*] Director: Fed_Cap
+	(Full Human Voiceover)
+	Actors: 
+        [*] WoodCraft Host: Atikar
+		[*] WoodCraft Jingle: RebelRex
+		[*] Salesman and Cookshow announcer: Goosesalesman of Hamburg
+		[*] Cookshow Host (Diane): Ghoulie
+		[*] Exposure Survival Host (Dean): ThatWeasel
+ [/list]
+[*]LBMW - Kentucky Radio
+ [list]
+	[*] Director: Fed_Cap
+	[*] Actors: ElevenLabs
+ [/list]
+[*]NNR Radio:
+ [list]
+	[*] Director: EmpyrealVanguard
+	(Full Human Voiceover)
+	Actors: 
+		[*] NNR Presentator: glassorca
+       		[*] NNR Host: EmpyrealVanguard
+		[*] Dr. Jeff Galbraithe: OhzoLate
+		[*] Prof. Jake Wilson: Skellitor301
+		[*] Al: that_troglodyte_guy
+		[*] Pastor James Hartnell: Donnie Narco
+		[*] Civilian 1: Already Out
+		[*] Civilian 2: anon
+		[*] Civilian 3: ilovetrashytv
+		[*] Civilian 4: Coda / Angel
+ [/list]
+[*]KnoxTalk Radio
+ [list]
+	[*] Director: Fed_Cap
+	Actors: ElevenLabs
+		[*] KnoxTalk Host: DaniTGW
+		[*] Marcia: Mira
+		[*] Bobby: Carmine 
+		[*] Twiggy: Carmine		
+		[*] Madison: Patriot
+		[*] Christian: Nash
+		[*] James: Bryan Butler
+		[*] Catherine: PALSJ
+		[*] Colonel Smythe: Patriot
+		[*] Ethan: yuripulga
+		[*] Todd: Carmine
+		
+		[*] Clare: Mira (StS Freya)
+
+		[*] Kelly: SerinaUmbra
+		[*] Unnamed Janitor: Carmine
+		[*] Charles: Already Out
+		[*] John: Patriot
+		
+		[*] Danny: Brock
+		[*] Carla: SerinaSilvermoon
+		[*] Raider: Peaseboy2234
+		[*] Mike: TheDoctor
+		[*] Brian: kier gordon
+
+		[*] Howard: Bryan Butler
+		[*] Julie: SerinaSilvermoon
+		[*] Mary: Mira
+ [/list]
+[*]Triple N
+ [list]
+	[*] Director: Fed_Cap
+	(Full Human Voiceover)
+	Actors:
+		[*] Joan: 3arthboound
+		[*] Kirsty Cormick: SerinaUmbra
+		[*] Judge Matt Hass: Pyrosshade
+		[*] Displaced Civilian 1: Patriot
+		[*] Displaced Civilian 2: AroBaro
+		[*] Displaced Civilian 3: AroBaro
+		[*] Professor John Ramirez: CrystalChris
+		[*] Daniel Sinclair: Kepi
+		[*] Pauline Simpson: Brock (StS Alice)
+		[*] Triple-N Presentator: AroBaro
+ [/list]
+[*]TURBO
+ [list]
+	[*] Director: Fed_Cap
+	Actors:
+		
+		[*] Mary Beth (sunset drive): Mira
+		[*] Joan: 3arthboound
+		[*] Kirsty Cormick: SerinaSilvermoon
+		[*] Judge Matt Hass: Pyrosshade
+		[*] Displaced Civilian 3: AroBaro
+		[*] Triple-N Presentator: AroBaro
+ [/list]
+[*]Automated Emergency Broadcast System
+ [list]
+	[*] Director: Burkanx
+	[*] Actors: ElevenLabs
+ [/list]
+[*]Adverts:
+ [list]
+	[*] Pizza Whirled: riptank
+	[*] Churn R' Us, Fossoil: That Weasel
+	[*] Greene's Grocery: Jaiden The Awesome
+	[*] Spiffo Movie: Adaminium
+	[*] ValuInsurance: Brady/Charlie
+	[*] Dr Cox, Ivanov Clubs, Tooks Bear, Wok&Rolls, Pop, Seahorse coffee: Goosesalesman of Hamburg
+	[*] Pop, Seahorse coffee: SerinaSilvermoon
+	[*] Wok&Rolls: thatWeasel, Ghoulie
+	[*] Democrat Ad: Radio dude?
+	[*] Republican Ad: High Sunn
+	[*] Pharmahug: PALSJ
+	[*] Dr. Oids: Kepi
+	[*] Fashionabelle: Bryan Butler, Kier Gordon
+	[*] Cross Roads Mall: Mira
+	[*] The Forgotten Element: OhzoLate, ⦑ A L L G R U N F A N 5 0 ⦒, Mòran Taing
+	[*] Fish and Chips: Peaseboy2234
+	[*] Pile o' Crepe: yuripulga, Patriot, Suno AI (music)
+	[*] Taco del Pancho: EmpyrealVanguard
+	[*] The Sea Shanty: EmpyrealVanguard
+ [/list]
+[/list]
