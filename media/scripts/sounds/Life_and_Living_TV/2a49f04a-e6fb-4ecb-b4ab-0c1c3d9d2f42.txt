@@ -1,0 +1,106 @@
+module Base
+{
+	sound 4f9bea9e-e515-40af-924d-c520b9fafc32
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/2a49f04a-e6fb-4ecb-b4ab-0c1c3d9d2f42/4f9bea9e-e515-40af-924d-c520b9fafc32.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 70a39c78-af59-4a52-9c89-705e12366c7d
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/2a49f04a-e6fb-4ecb-b4ab-0c1c3d9d2f42/70a39c78-af59-4a52-9c89-705e12366c7d.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound f1c3d9ae-54c1-4feb-a345-b3dce9aa282a
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/2a49f04a-e6fb-4ecb-b4ab-0c1c3d9d2f42/f1c3d9ae-54c1-4feb-a345-b3dce9aa282a.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound d2cc036a-8166-4464-9b38-e52bd6f5f8f9
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/2a49f04a-e6fb-4ecb-b4ab-0c1c3d9d2f42/d2cc036a-8166-4464-9b38-e52bd6f5f8f9.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 364b8495-89f8-444e-a631-cc8bec7b0958
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/2a49f04a-e6fb-4ecb-b4ab-0c1c3d9d2f42/364b8495-89f8-444e-a631-cc8bec7b0958.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 61fd0014-a687-42ba-bc70-4079d737bc45
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/2a49f04a-e6fb-4ecb-b4ab-0c1c3d9d2f42/61fd0014-a687-42ba-bc70-4079d737bc45.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 8160946e-b06c-4d42-809c-0d46ab706ebb
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/2a49f04a-e6fb-4ecb-b4ab-0c1c3d9d2f42/8160946e-b06c-4d42-809c-0d46ab706ebb.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 79e03757-5818-4669-a4ee-c9b6697fa08e
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/2a49f04a-e6fb-4ecb-b4ab-0c1c3d9d2f42/79e03757-5818-4669-a4ee-c9b6697fa08e.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+}

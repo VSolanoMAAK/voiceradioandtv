@@ -1,0 +1,210 @@
+module Base
+{
+	sound a33fe7e9-d933-4e6b-9d6f-58479b671e8d
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/87fd2783-9fe4-4605-becf-5875a5616f28/a33fe7e9-d933-4e6b-9d6f-58479b671e8d.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 44679f0c-d139-4e67-9276-34037b48dd41
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/87fd2783-9fe4-4605-becf-5875a5616f28/44679f0c-d139-4e67-9276-34037b48dd41.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 0b7679b9-6578-4a17-aaa9-eb53ae5ef81a
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/87fd2783-9fe4-4605-becf-5875a5616f28/0b7679b9-6578-4a17-aaa9-eb53ae5ef81a.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 580204b5-8bf4-402f-98ec-d3735b073632
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/87fd2783-9fe4-4605-becf-5875a5616f28/580204b5-8bf4-402f-98ec-d3735b073632.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 005f58ac-903b-4694-bc5b-28c4e85f0d12
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/87fd2783-9fe4-4605-becf-5875a5616f28/005f58ac-903b-4694-bc5b-28c4e85f0d12.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound b536fa5a-62f2-4045-a899-49e4385194ea
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/87fd2783-9fe4-4605-becf-5875a5616f28/b536fa5a-62f2-4045-a899-49e4385194ea.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 1f87e2b8-7a7e-4f76-8567-97673ce9acc8
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/87fd2783-9fe4-4605-becf-5875a5616f28/1f87e2b8-7a7e-4f76-8567-97673ce9acc8.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 0187b55e-5f3b-46bd-8bd0-6fef8184a22f
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/87fd2783-9fe4-4605-becf-5875a5616f28/0187b55e-5f3b-46bd-8bd0-6fef8184a22f.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 8dce6f6f-0281-4137-bcdd-c68d923dfc24
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/87fd2783-9fe4-4605-becf-5875a5616f28/8dce6f6f-0281-4137-bcdd-c68d923dfc24.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 666e502f-eef9-4df1-bd77-c34a74cd64f5
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/87fd2783-9fe4-4605-becf-5875a5616f28/666e502f-eef9-4df1-bd77-c34a74cd64f5.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound bb32bf43-5e39-4fe1-8f83-a41f1e3293a0
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/87fd2783-9fe4-4605-becf-5875a5616f28/bb32bf43-5e39-4fe1-8f83-a41f1e3293a0.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 1be68998-2d9c-4a1f-8d3c-5ffc9a381ee9
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/87fd2783-9fe4-4605-becf-5875a5616f28/1be68998-2d9c-4a1f-8d3c-5ffc9a381ee9.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 8f7ef66d-ce51-4e58-9b2c-90fd6868a0c0
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/87fd2783-9fe4-4605-becf-5875a5616f28/8f7ef66d-ce51-4e58-9b2c-90fd6868a0c0.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 978b7301-fe57-4561-bbfc-eaee8130f154
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/87fd2783-9fe4-4605-becf-5875a5616f28/978b7301-fe57-4561-bbfc-eaee8130f154.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound e31cd106-bdfd-4528-8f90-32b6483db250
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/87fd2783-9fe4-4605-becf-5875a5616f28/e31cd106-bdfd-4528-8f90-32b6483db250.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 80365889-9ba0-4056-8cb4-fa76f41d3b92
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/87fd2783-9fe4-4605-becf-5875a5616f28/80365889-9ba0-4056-8cb4-fa76f41d3b92.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+}

@@ -1,0 +1,236 @@
+module Base
+{
+	sound 7ccec084-9da4-4900-941c-357612630219
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/7ccec084-9da4-4900-941c-357612630219.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 6e7cd640-a270-4cd8-854c-98d6a497dff9
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/6e7cd640-a270-4cd8-854c-98d6a497dff9.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 1cbbfa74-e3f5-496a-add4-abd677be764b
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/1cbbfa74-e3f5-496a-add4-abd677be764b.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound b5f08cc4-87f1-4f2b-b50f-225267fc362e
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/b5f08cc4-87f1-4f2b-b50f-225267fc362e.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound ff846829-1cf5-4e35-93f9-df0ec043294d
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/ff846829-1cf5-4e35-93f9-df0ec043294d.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 0f38bee8-384f-470c-af14-76df64046932
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/0f38bee8-384f-470c-af14-76df64046932.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound e54981fe-d8a5-416a-9297-9fe9f3431624
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/e54981fe-d8a5-416a-9297-9fe9f3431624.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 71713e3f-bcda-4536-a74d-80d6c6377785
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/71713e3f-bcda-4536-a74d-80d6c6377785.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 731cf234-8279-4a6c-aad5-d8ffcac4e8cb
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/731cf234-8279-4a6c-aad5-d8ffcac4e8cb.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound e6565a06-d322-4d0b-ab7a-92f82e40cf4d
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/e6565a06-d322-4d0b-ab7a-92f82e40cf4d.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound e2e3f47b-00e8-4cc2-ad1e-36984d76e85f
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/e2e3f47b-00e8-4cc2-ad1e-36984d76e85f.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 20ba34bb-1842-4d9a-a537-e83324db528c
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/20ba34bb-1842-4d9a-a537-e83324db528c.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound b5cfe549-6778-4ef5-8dd7-fd9e855aae68
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/b5cfe549-6778-4ef5-8dd7-fd9e855aae68.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 4c230f0f-0aab-4ecc-bd3b-a7312f765b75
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/4c230f0f-0aab-4ecc-bd3b-a7312f765b75.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 00a41d2e-2f19-4f73-b02e-0a8fd2cf51c1
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/00a41d2e-2f19-4f73-b02e-0a8fd2cf51c1.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound ce227a11-4548-4220-ab85-8b234779adde
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/ce227a11-4548-4220-ab85-8b234779adde.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 4dc792f0-9d5e-42bf-90c0-3127c1cc85bd
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/4dc792f0-9d5e-42bf-90c0-3127c1cc85bd.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 162407a1-75fe-4798-83d0-d7d28c15595a
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/NNR_Radio/485a0901-e7f4-4e5b-866e-aea12d81e31c/162407a1-75fe-4798-83d0-d7d28c15595a.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+}
