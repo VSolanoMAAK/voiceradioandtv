@@ -1,0 +1,106 @@
+module Base
+{
+	sound 21e712fa-dc5e-4775-abd4-7abee11dab2f
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/PawsTV/845fa24b-0c92-4db7-a6ac-f15bf08f1d8e/21e712fa-dc5e-4775-abd4-7abee11dab2f.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 9698fc19-26d3-4346-bd48-7edf4e06ae97
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/PawsTV/845fa24b-0c92-4db7-a6ac-f15bf08f1d8e/9698fc19-26d3-4346-bd48-7edf4e06ae97.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound ff051a15-d39f-4b2e-bcc1-dabd4c170ee4
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/PawsTV/845fa24b-0c92-4db7-a6ac-f15bf08f1d8e/ff051a15-d39f-4b2e-bcc1-dabd4c170ee4.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 07fbaede-6052-4a1b-a82f-fab4b867db05
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/PawsTV/845fa24b-0c92-4db7-a6ac-f15bf08f1d8e/07fbaede-6052-4a1b-a82f-fab4b867db05.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 6265c90f-c477-446f-9b91-40cd2675ed09
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/PawsTV/845fa24b-0c92-4db7-a6ac-f15bf08f1d8e/6265c90f-c477-446f-9b91-40cd2675ed09.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 4805fe82-20a8-4c8b-a641-b515b5d2ed1f
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/PawsTV/845fa24b-0c92-4db7-a6ac-f15bf08f1d8e/4805fe82-20a8-4c8b-a641-b515b5d2ed1f.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound bf3dc42b-e23f-4288-b9ea-bfbfabefcd1c
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/PawsTV/845fa24b-0c92-4db7-a6ac-f15bf08f1d8e/bf3dc42b-e23f-4288-b9ea-bfbfabefcd1c.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 31f6065b-634e-4358-8722-bfba600f0ff5
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/PawsTV/845fa24b-0c92-4db7-a6ac-f15bf08f1d8e/31f6065b-634e-4358-8722-bfba600f0ff5.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+}

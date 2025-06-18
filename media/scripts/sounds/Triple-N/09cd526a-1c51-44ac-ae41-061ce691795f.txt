@@ -1,0 +1,444 @@
+module Base
+{
+	sound 66445919-0a16-48cb-9fa3-9146f582bfde
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/66445919-0a16-48cb-9fa3-9146f582bfde.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 924d0a71-3eee-4e96-9edf-b5c03dcdcbe9
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/924d0a71-3eee-4e96-9edf-b5c03dcdcbe9.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound d7dc9beb-8675-44c1-9a66-2273f05a83cf
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/d7dc9beb-8675-44c1-9a66-2273f05a83cf.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound ae447259-1d43-4e7e-b087-c7b2b39d2624
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/ae447259-1d43-4e7e-b087-c7b2b39d2624.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound a41146d8-041b-4d47-98a8-a377e4c70781
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/a41146d8-041b-4d47-98a8-a377e4c70781.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 3966f961-ef3f-4763-b7fe-fa258e323eba
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/3966f961-ef3f-4763-b7fe-fa258e323eba.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 213f0be0-ac45-43a6-85ef-9d8e280cd736
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/213f0be0-ac45-43a6-85ef-9d8e280cd736.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound efc6821d-078f-4282-bdcc-3889a70737d0
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/efc6821d-078f-4282-bdcc-3889a70737d0.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 853b5319-c598-486b-8f34-26887723f025
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/853b5319-c598-486b-8f34-26887723f025.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 9f2ce773-c089-4069-a34b-86422eb17e0a
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/9f2ce773-c089-4069-a34b-86422eb17e0a.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 6b4d650d-c01d-4f4b-aa4c-66c1b9de1f61
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/6b4d650d-c01d-4f4b-aa4c-66c1b9de1f61.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound ce37aa68-6b68-4254-abdd-e28cbf246259
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/ce37aa68-6b68-4254-abdd-e28cbf246259.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound a4c67c26-b528-4d89-adc1-2366440aecad
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/a4c67c26-b528-4d89-adc1-2366440aecad.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 325a8dc9-5bd1-4d12-be49-94d47881efbe
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/325a8dc9-5bd1-4d12-be49-94d47881efbe.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 9cb70a98-d378-46dd-bce6-fa4056c668e0
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/9cb70a98-d378-46dd-bce6-fa4056c668e0.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 9b9db1ca-0327-446e-b205-31369a3df652
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/9b9db1ca-0327-446e-b205-31369a3df652.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound c05066e4-1189-4faf-9391-31e84d68fcd4
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/c05066e4-1189-4faf-9391-31e84d68fcd4.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound e5675900-0030-4d6a-9397-d3c9440958a7
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/e5675900-0030-4d6a-9397-d3c9440958a7.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 194e3aa3-4fea-40d0-ab91-64b07cb01c1e
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/194e3aa3-4fea-40d0-ab91-64b07cb01c1e.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 1cc34156-3c65-4467-9c16-3818f37e29eb
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/1cc34156-3c65-4467-9c16-3818f37e29eb.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound c1f8128b-a7c5-4caa-b9ef-3040676f1749
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/c1f8128b-a7c5-4caa-b9ef-3040676f1749.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 57c7f1ab-ec67-4027-b3cf-b55d15101265
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/57c7f1ab-ec67-4027-b3cf-b55d15101265.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound ba5a34f6-0bde-4586-ba29-4980db75178b
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/ba5a34f6-0bde-4586-ba29-4980db75178b.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 33524350-411b-481d-b1d8-98ccc1790b01
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/33524350-411b-481d-b1d8-98ccc1790b01.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 5145da57-338d-41f8-bf38-0686e5b37e8c
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/5145da57-338d-41f8-bf38-0686e5b37e8c.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 83d76ed5-935b-4f3a-91af-2606310b983c
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/83d76ed5-935b-4f3a-91af-2606310b983c.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 2008424c-41b9-4b1f-ba02-c139f01f830a
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/2008424c-41b9-4b1f-ba02-c139f01f830a.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound fa4725fe-3f1b-4386-ab2a-c4de0c700816
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/fa4725fe-3f1b-4386-ab2a-c4de0c700816.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 63f29991-d121-49c4-907e-e753e65b4af6
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/63f29991-d121-49c4-907e-e753e65b4af6.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound eab53b0d-5bbd-470f-97d4-4b63a1205159
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/eab53b0d-5bbd-470f-97d4-4b63a1205159.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 85b0bb43-3bf5-482c-862a-217b555e2696
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/85b0bb43-3bf5-482c-862a-217b555e2696.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound da78dc36-2cb6-47e8-bd97-9f86e93449a4
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/da78dc36-2cb6-47e8-bd97-9f86e93449a4.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 34d9d8c5-0698-43d9-bcc0-4c26b625bfc2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/34d9d8c5-0698-43d9-bcc0-4c26b625bfc2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 4ad0e7fc-51d8-4ab1-9814-7c8214b1ca86
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f/4ad0e7fc-51d8-4ab1-9814-7c8214b1ca86.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+}

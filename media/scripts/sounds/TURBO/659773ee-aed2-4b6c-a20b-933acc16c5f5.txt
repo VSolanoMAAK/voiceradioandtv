@@ -1,0 +1,184 @@
+module Base
+{
+	sound b458fba8-ba78-4de7-ae85-1d5b0ab3800d
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/659773ee-aed2-4b6c-a20b-933acc16c5f5/b458fba8-ba78-4de7-ae85-1d5b0ab3800d.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 4265aec1-b0a0-478d-a454-d604b66257dc
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/659773ee-aed2-4b6c-a20b-933acc16c5f5/4265aec1-b0a0-478d-a454-d604b66257dc.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 96d90b4c-7b8e-4a9b-8021-b5e4db604fff
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/659773ee-aed2-4b6c-a20b-933acc16c5f5/96d90b4c-7b8e-4a9b-8021-b5e4db604fff.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 4ee27d7e-56dd-44c8-b48b-da1ed910b22b
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/659773ee-aed2-4b6c-a20b-933acc16c5f5/4ee27d7e-56dd-44c8-b48b-da1ed910b22b.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound baf48fe2-b432-4f5a-bd86-ae9863070427
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/659773ee-aed2-4b6c-a20b-933acc16c5f5/baf48fe2-b432-4f5a-bd86-ae9863070427.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound d359b794-e861-42aa-91d6-320c96d3d536
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/659773ee-aed2-4b6c-a20b-933acc16c5f5/d359b794-e861-42aa-91d6-320c96d3d536.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 110f7bf2-0c2e-4de4-b464-7655fdde1070
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/659773ee-aed2-4b6c-a20b-933acc16c5f5/110f7bf2-0c2e-4de4-b464-7655fdde1070.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound a7386b53-3bb2-40c9-8130-27d371ae3a3f
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/659773ee-aed2-4b6c-a20b-933acc16c5f5/a7386b53-3bb2-40c9-8130-27d371ae3a3f.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound a0b485aa-0b5b-4d1a-a024-3958cc589421
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/659773ee-aed2-4b6c-a20b-933acc16c5f5/a0b485aa-0b5b-4d1a-a024-3958cc589421.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound a6c0681b-a49d-4073-b9c7-2a58ed0f54f2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/659773ee-aed2-4b6c-a20b-933acc16c5f5/a6c0681b-a49d-4073-b9c7-2a58ed0f54f2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 9d7852bb-b667-4aa5-b25c-53b87e56b4a7
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/659773ee-aed2-4b6c-a20b-933acc16c5f5/9d7852bb-b667-4aa5-b25c-53b87e56b4a7.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 6ddbbcab-d8e1-492d-9cd4-098d61ad2e78
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/659773ee-aed2-4b6c-a20b-933acc16c5f5/6ddbbcab-d8e1-492d-9cd4-098d61ad2e78.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound fac2b6f9-a350-48a2-ae96-5c17e71ddb8d
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/659773ee-aed2-4b6c-a20b-933acc16c5f5/fac2b6f9-a350-48a2-ae96-5c17e71ddb8d.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 54681174-65e3-4296-b506-791045c37643
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/659773ee-aed2-4b6c-a20b-933acc16c5f5/54681174-65e3-4296-b506-791045c37643.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+}
