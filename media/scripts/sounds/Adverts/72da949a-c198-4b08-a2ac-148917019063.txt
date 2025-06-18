@@ -1,0 +1,93 @@
+module Base
+{
+	sound 74353cef-98ed-4aac-b450-eac04be503d8
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/72da949a-c198-4b08-a2ac-148917019063/74353cef-98ed-4aac-b450-eac04be503d8.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 07a033a7-76ff-4aa6-acf9-17c4e442b5aa
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/72da949a-c198-4b08-a2ac-148917019063/07a033a7-76ff-4aa6-acf9-17c4e442b5aa.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound e86eb129-9283-4a29-80cd-ab8489d95dd1
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/72da949a-c198-4b08-a2ac-148917019063/e86eb129-9283-4a29-80cd-ab8489d95dd1.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 18bd8fb5-554d-417f-ac65-9a81cdfd11ef
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/72da949a-c198-4b08-a2ac-148917019063/18bd8fb5-554d-417f-ac65-9a81cdfd11ef.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 1ed02755-81e0-4bb4-8c3d-fa88391c086b
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/72da949a-c198-4b08-a2ac-148917019063/1ed02755-81e0-4bb4-8c3d-fa88391c086b.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 07b5c28d-1288-4c4a-8c3a-a079ca902347
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/72da949a-c198-4b08-a2ac-148917019063/07b5c28d-1288-4c4a-8c3a-a079ca902347.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 303606ff-d1d3-42f9-91c1-60a31c840835
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/72da949a-c198-4b08-a2ac-148917019063/303606ff-d1d3-42f9-91c1-60a31c840835.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+}

@@ -1,0 +1,93 @@
+module Base
+{
+	sound 9ebb8ef9-d841-475b-968f-51a1dfdab27f
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/9fd4b9b7-0f0c-41e4-9c0c-f3afd39dff0c/9ebb8ef9-d841-475b-968f-51a1dfdab27f.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 9568e6d6-1596-4cc0-9ab9-a1227ed38d37
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/9fd4b9b7-0f0c-41e4-9c0c-f3afd39dff0c/9568e6d6-1596-4cc0-9ab9-a1227ed38d37.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound b971466d-9ba3-48ce-8e7b-213054431257
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/9fd4b9b7-0f0c-41e4-9c0c-f3afd39dff0c/b971466d-9ba3-48ce-8e7b-213054431257.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 00de17d5-e2bf-466f-ab62-21a932942789
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/9fd4b9b7-0f0c-41e4-9c0c-f3afd39dff0c/00de17d5-e2bf-466f-ab62-21a932942789.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 88017a9c-b69f-404a-9f1f-8983b88a6257
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/9fd4b9b7-0f0c-41e4-9c0c-f3afd39dff0c/88017a9c-b69f-404a-9f1f-8983b88a6257.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 33d845cc-9440-4a98-aa8b-26d44c441835
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/9fd4b9b7-0f0c-41e4-9c0c-f3afd39dff0c/33d845cc-9440-4a98-aa8b-26d44c441835.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 2248c033-d107-4cbf-894b-db2392e64577
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/9fd4b9b7-0f0c-41e4-9c0c-f3afd39dff0c/2248c033-d107-4cbf-894b-db2392e64577.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+}

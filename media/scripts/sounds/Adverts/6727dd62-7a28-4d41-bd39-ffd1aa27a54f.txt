@@ -1,0 +1,93 @@
+module Base
+{
+	sound 7583e5a4-31cc-4155-aabb-3f4f913e5745
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/6727dd62-7a28-4d41-bd39-ffd1aa27a54f/7583e5a4-31cc-4155-aabb-3f4f913e5745.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 502fdc28-b9e3-46c7-8be8-b0f17fff3537
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/6727dd62-7a28-4d41-bd39-ffd1aa27a54f/502fdc28-b9e3-46c7-8be8-b0f17fff3537.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 9b89ff36-a7a8-42be-beb2-f60590e2a4fa
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/6727dd62-7a28-4d41-bd39-ffd1aa27a54f/9b89ff36-a7a8-42be-beb2-f60590e2a4fa.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound f69ede64-4083-4cb7-b82e-ca8f29cfac93
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/6727dd62-7a28-4d41-bd39-ffd1aa27a54f/f69ede64-4083-4cb7-b82e-ca8f29cfac93.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound efe9afbe-e3f6-4c28-a548-7964536bedf4
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/6727dd62-7a28-4d41-bd39-ffd1aa27a54f/efe9afbe-e3f6-4c28-a548-7964536bedf4.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 671135b0-8cb2-4d1e-bf18-be82f7b08e3d
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/6727dd62-7a28-4d41-bd39-ffd1aa27a54f/671135b0-8cb2-4d1e-bf18-be82f7b08e3d.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 19baec04-2f87-4e26-baa8-10524a01e2d2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/6727dd62-7a28-4d41-bd39-ffd1aa27a54f/19baec04-2f87-4e26-baa8-10524a01e2d2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+}

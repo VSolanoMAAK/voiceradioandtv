@@ -1,0 +1,106 @@
+module Base
+{
+	sound be134e2a-36ea-4a55-bcf4-ef05ac756773
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/bf540c47-4aa6-47d6-97c4-2a78a8ae5f7f/be134e2a-36ea-4a55-bcf4-ef05ac756773.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound ec452dbf-9337-4313-91aa-1a168d654ae0
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/bf540c47-4aa6-47d6-97c4-2a78a8ae5f7f/ec452dbf-9337-4313-91aa-1a168d654ae0.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 878fd1c4-0494-4392-8a2b-c33b2c972301
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/bf540c47-4aa6-47d6-97c4-2a78a8ae5f7f/878fd1c4-0494-4392-8a2b-c33b2c972301.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound d522cc77-ddeb-46df-b8ae-8beaedd798da
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/bf540c47-4aa6-47d6-97c4-2a78a8ae5f7f/d522cc77-ddeb-46df-b8ae-8beaedd798da.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 96b4a08c-8008-41ee-a384-2bd4bc362b70
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/bf540c47-4aa6-47d6-97c4-2a78a8ae5f7f/96b4a08c-8008-41ee-a384-2bd4bc362b70.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 79485af4-8791-454f-89e0-3286507e67a1
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/bf540c47-4aa6-47d6-97c4-2a78a8ae5f7f/79485af4-8791-454f-89e0-3286507e67a1.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 6fd136cb-45e1-43c5-9a7a-12ed474cd0c7
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/bf540c47-4aa6-47d6-97c4-2a78a8ae5f7f/6fd136cb-45e1-43c5-9a7a-12ed474cd0c7.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound f5376fdf-b653-4e31-b9de-bfadc7225ee4
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/bf540c47-4aa6-47d6-97c4-2a78a8ae5f7f/f5376fdf-b653-4e31-b9de-bfadc7225ee4.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+}
