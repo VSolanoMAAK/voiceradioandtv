@@ -1,0 +1,171 @@
+module Base
+{
+	sound 09152890-fcf9-45d2-b86b-47e594217034
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/1953b137-c59b-48c7-91c0-aca3d320046b/09152890-fcf9-45d2-b86b-47e594217034.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound c8f9715b-cfae-41c9-abfa-19ce99a2dbd6
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/1953b137-c59b-48c7-91c0-aca3d320046b/c8f9715b-cfae-41c9-abfa-19ce99a2dbd6.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound e08d34df-acf9-4b07-8d5e-bd6a8523dbab
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/1953b137-c59b-48c7-91c0-aca3d320046b/e08d34df-acf9-4b07-8d5e-bd6a8523dbab.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 2b4e416d-44f9-422d-92de-a8844e3b6bf2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/1953b137-c59b-48c7-91c0-aca3d320046b/2b4e416d-44f9-422d-92de-a8844e3b6bf2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 8d9c2400-bf7b-4375-9b12-ca3ee2d35747
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/1953b137-c59b-48c7-91c0-aca3d320046b/8d9c2400-bf7b-4375-9b12-ca3ee2d35747.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound ecfdb1f4-ab27-4336-9393-3b9570172334
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/1953b137-c59b-48c7-91c0-aca3d320046b/ecfdb1f4-ab27-4336-9393-3b9570172334.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound e482da8f-08f5-4e44-82f2-f2deae982dab
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/1953b137-c59b-48c7-91c0-aca3d320046b/e482da8f-08f5-4e44-82f2-f2deae982dab.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 85bcb4a1-4dd5-44bd-a02a-a1c3e59e4ffa
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/1953b137-c59b-48c7-91c0-aca3d320046b/85bcb4a1-4dd5-44bd-a02a-a1c3e59e4ffa.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound f6eba0b8-9cce-4633-8630-07472aadd24f
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/1953b137-c59b-48c7-91c0-aca3d320046b/f6eba0b8-9cce-4633-8630-07472aadd24f.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 243e368b-d883-4bf9-97b1-0c11cdcd5020
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/1953b137-c59b-48c7-91c0-aca3d320046b/243e368b-d883-4bf9-97b1-0c11cdcd5020.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 927e1ab2-6a5c-4426-9241-dc961e314cea
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/1953b137-c59b-48c7-91c0-aca3d320046b/927e1ab2-6a5c-4426-9241-dc961e314cea.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 23b6a98f-b9fb-4bf0-8b7a-2398e9667617
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/1953b137-c59b-48c7-91c0-aca3d320046b/23b6a98f-b9fb-4bf0-8b7a-2398e9667617.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound a6094026-2d86-4cac-b2fb-ddecb431f398
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/1953b137-c59b-48c7-91c0-aca3d320046b/a6094026-2d86-4cac-b2fb-ddecb431f398.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+}

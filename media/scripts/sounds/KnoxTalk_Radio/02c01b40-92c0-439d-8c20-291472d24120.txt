@@ -1,0 +1,80 @@
+module Base
+{
+	sound a6cae200-bcdd-4e46-8d7a-a8e7583ca311
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/02c01b40-92c0-439d-8c20-291472d24120/a6cae200-bcdd-4e46-8d7a-a8e7583ca311.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound d8e65b0e-1f55-4d8a-b69a-34c3e4e3cdc8
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/02c01b40-92c0-439d-8c20-291472d24120/d8e65b0e-1f55-4d8a-b69a-34c3e4e3cdc8.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound f25d9552-6724-462f-a348-ee4e810721e7
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/02c01b40-92c0-439d-8c20-291472d24120/f25d9552-6724-462f-a348-ee4e810721e7.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 4d4b09cd-ac08-4bb5-a5c8-f83d1ffb04c4
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/02c01b40-92c0-439d-8c20-291472d24120/4d4b09cd-ac08-4bb5-a5c8-f83d1ffb04c4.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound ee34092e-7287-43a7-87df-197d4ae880ea
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/02c01b40-92c0-439d-8c20-291472d24120/ee34092e-7287-43a7-87df-197d4ae880ea.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 2098745e-5694-4630-b9c1-7232fa466da1
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/02c01b40-92c0-439d-8c20-291472d24120/2098745e-5694-4630-b9c1-7232fa466da1.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+}

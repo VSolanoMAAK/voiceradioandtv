@@ -1,0 +1,93 @@
+module Base
+{
+	sound 55de67a1-828f-41ae-928f-d3fdc2c19784
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/778513f9-eb09-4095-87e7-9f74ec385e38/55de67a1-828f-41ae-928f-d3fdc2c19784.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound abd5500c-fc0c-4a9b-b664-9a61e2807185
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/778513f9-eb09-4095-87e7-9f74ec385e38/abd5500c-fc0c-4a9b-b664-9a61e2807185.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound e0a6aa27-098e-49b5-ae2c-c838dbaeacc6
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/778513f9-eb09-4095-87e7-9f74ec385e38/e0a6aa27-098e-49b5-ae2c-c838dbaeacc6.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 1a25e7ab-4076-4bab-8828-e9bba91ba817
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/778513f9-eb09-4095-87e7-9f74ec385e38/1a25e7ab-4076-4bab-8828-e9bba91ba817.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 92f9b49f-40f8-4e09-9749-25ad79081d47
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/778513f9-eb09-4095-87e7-9f74ec385e38/92f9b49f-40f8-4e09-9749-25ad79081d47.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 3013d5dc-67de-4e16-b445-a27a09ccca82
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/778513f9-eb09-4095-87e7-9f74ec385e38/3013d5dc-67de-4e16-b445-a27a09ccca82.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound a2bd2aa9-487f-4509-9037-0ef4db141694
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/KnoxTalk_Radio/778513f9-eb09-4095-87e7-9f74ec385e38/a2bd2aa9-487f-4509-9037-0ef4db141694.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+}
